@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Page</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="background-color-left">
+        <img src = "Screenshot__508_-removebg-preview.png" style="height: 200px; width: 200px; display: flex; padding-left: 27%; padding-top: 50%;"/>
+    </div>
+    <div class="background-color-right"></div>
+<div class="login-box">
+    <h1>Sign up</h1>
+    <form action = "regist.php" method="POST">
+        <div class="textbox">
+            <i class="fas fa-user"></i>
+            <input type="text" placeholder="Full Name" name="fullname" required>
+        </div>
+        <div class="textbox">
+            <i class="fas fa-user"></i>
+            <input type="email" placeholder="Email" name="email" required>
+        </div>
+        <div class="textbox">
+            <i class="fas fa-user"></i>
+            <input type="text" placeholder="Username" name="username" required>
+        </div>
+        <div class="textbox">
+            <i class="fas fa-lock"></i>
+            <input type="password" placeholder="Password" name="password" required>
+        </div>
+        <a href="loginpage.html">
+            <button type="Submit" name="Sign Up" class="btn-input" style="text-align: justify; border-radius: 5px; display: flex; padding-left: 20%; padding-right: 20%; padding-top: 3px; padding-bottom: 3px; margin-top: 10px;">Sign Up</button>
+        </a><br>
+        <a>Already have an account?</a><a target="bold" href="loginpage.html" style="color: blue;">  Sign in</a>
+    </form>
+</div>
+</body>
+</html>
