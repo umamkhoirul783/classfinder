@@ -1,0 +1,153 @@
+:root {
+  --primary: #6C969D;
+  --bg: #464D77;
+  --detail: #D8BCAB;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+.login {
+  height: 100vh;
+  display: flex;
+}
+
+.login-left {
+  background-color: var(--bg);
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-left h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 48px;
+  color: var(--detail);
+}
+
+.login-left span {
+  color: var(--primary);
+}
+
+.login-right {
+  background-color: var(--detail);
+  width: 50%;
+  height: 100%;
+}
+
+.row {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container h2 {
+  display: flex;
+  justify-content: center;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  color: var(--bg);
+}
+
+.container label {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--bg);
+  margin-top: 20px;
+  display: block;
+}
+
+.container input {
+  background: none;
+  border-bottom: 1px solid var(--bg);
+}
+
+button {
+  display: block;
+  color: var(--detail);
+  background-color: var(--bg);
+  padding: 0.5rem 50%;
+  margin: 10px 0;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--primary);
+  color: var(--bg);
+}
+
+.container p {
+  color: var(--bg);
+}
+
+.container a {
+  font-weight: 600;
+  color: var(--bg);
+}
+
+.container a:hover {
+  color: var(--primary);
+}
+
+/* signup */
+
+.signup {
+  height: 100vh;
+  display: flex;
+}
+
+.signup-left {
+  background-color: var(--detail);
+  width: 50%;
+  height: 100%;
+}
+
+.signup-right {
+  background-color: var(--bg);
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-right h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 48px;
+  color: var(--detail);
+}
+
+.signup-right span {
+  color: var(--primary);
+}
+
+select {
+  background-color: var(--primary);
+  color: var(--bg);
+  margin: 0;
+  padding: 0.5rem 47%;
+  border-radius: 5px;
+}
