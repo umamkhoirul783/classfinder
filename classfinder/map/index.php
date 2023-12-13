@@ -80,6 +80,7 @@
                 <div class="box">
                     <div class="image">
                     <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room4">
+                    <li class="booked">Booked</li>
                     </div>
                     <div class="content">
                         <h3>E11-201</h3>
@@ -90,6 +91,7 @@
                 <div class="box">
                     <div class="image">
                     <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <li class="status">Available</li>
                     </div>
                     <div class="content">
                         <h3>E11-202</h3>
@@ -99,7 +101,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room6">
+                    <li class="status">Available</li>
                     </div>
                     <div class="content">
                         <h3>E11-205</h3>
@@ -109,7 +112,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room7">
+                    <li class="booked">Booked</li>
                     </div>
                     <div class="content">
                         <h3>E11-206</h3>
@@ -119,7 +123,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room8">
+                    <li class="status">Available</li>
                     </div>
                     <div class="content">
                         <h3>E11-207</h3>
@@ -129,7 +134,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room9">
+                    <li class="status">Available</li>
                     </div>
                     <div class="content">
                         <h3>E11-209</h3>
@@ -139,7 +145,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room10">
+                    <li class="status">Available</li>
                     </div>
                     <div class="content">
                         <h3>E11-210</h3>
@@ -149,7 +156,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room11">
+                    <li class="booked">Booked</li>
                     </div>
                     <div class="content">
                         <h3>E11-301</h3>
@@ -159,7 +167,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room12">
+                    <li class="status">Available</li>
                     </div>
                     <div class="content">
                         <h3>E11-302</h3>
@@ -169,7 +178,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room13">
+                    <li class="booked">Booked</li>
                     </div>
                     <div class="content">
                         <h3>E11-305</h3>
@@ -179,7 +189,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room14">
+                    <li class="status">Available</li>
                     </div>
                     <div class="content">
                         <h3>E11-306</h3>
@@ -189,7 +200,8 @@
                 </div>
                 <div class="box">
                     <div class="image">
-                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room5">
+                    <img src="https://2.bp.blogspot.com/-2v5DE5vy6y4/UZzaEAcy2HI/AAAAAAAAACU/WvleJTIxYUI/s1600/photo.JPG" alt="room15">
+                    <li class="booked">Booked</li>
                     </div>
                     <div class="content">
                         <h3>E11-307</h3>

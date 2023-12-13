@@ -107,12 +107,13 @@ body {
     padding-left: 10px;
   }
   .classes {
-    background-color: var(--detail);
+    background-color: var(--bg);
     padding-bottom: 10px;
     padding-top: 10px;
+    color: var(--detail);
   }
   .rooms {
-    background-color: #fff;
+    background-color: var(--detail);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 100%;
     box-sizing: border-box;
@@ -130,10 +131,11 @@ body {
     align-items: center;
     border-radius: 10px;
     border-style:inset;
-    border-color: var(--detail);
+    border-color: var(--bg);
   }
   .box:hover, .box:active {
-    background-color: var(--detail);
+    background-color: var(--bg);
+    color: white;
   }
   img {
     padding: 15px;
@@ -157,6 +159,7 @@ body {
     height: 15px;
     text-align: center;
     border-style: groove;
+    border-color: darkgray;
   }
   .box .booked {
     padding-top: 2px;
@@ -169,6 +172,7 @@ body {
     height: 15px;
     text-align: center;
     border-style: groove;
+    border-color: darkgray;
   }
   /* Landing page */
   
